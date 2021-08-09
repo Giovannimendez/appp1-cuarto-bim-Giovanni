@@ -1,0 +1,13 @@
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.exe
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.deps.json
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.runtimeconfig.json
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.runtimeconfig.dev.json
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.dll
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\bin\Debug\netcoreapp3.1\app1 cuarto bim giovanni.pdb
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.csproj.AssemblyReference.cache
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.AssemblyInfoInputs.cache
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.AssemblyInfo.cs
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.dll
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.pdb
+C:\Users\marta\Desktop\app1 cuarto bim giovanni\app1 cuarto bim giovanni\obj\Debug\netcoreapp3.1\app1 cuarto bim giovanni.genruntimeconfig.cache
